@@ -1,6 +1,6 @@
 👋 Hi, I’m @RobertPaulRaise-R
 👀 I’m interested in learning new things
-🌱 I’m currently learning Javascript
+🌱 I’m currently learning React JS
 Reach me on instagram @robertpaulraise19
 
 <!---
